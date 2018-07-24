@@ -34,9 +34,9 @@ The toolbox is distributed under BSD-3 license. Please see the file called LICEN
 
 ## Contacts
 
-     * If you have any request, bug report, or inquiry, you can contact the author at:
+* If you have any request, bug report, or inquiry, you can contact the author at:
 	michele [dot] scarpiniti [at] uniroma1 [dot] it.
 	
-     * Additional contact information can also be found on the website of the author:
-	http://michelescarpiniti.site.uniroma1.it/
+* Additional contact information can also be found on the website of the author:
+	http://michelescarpiniti.site.uniroma1.it/.
 
